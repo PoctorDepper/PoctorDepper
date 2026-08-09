@@ -2,6 +2,8 @@
 
 - 😄 Pronouns: they/them
 - 🔭 I’m currently working on Blossom (indie game)
+- 🔭 I’m currently working on [Level+ (Terraria mod)](https://github.com/PoctorDepper/LevelPlus)
+- 🔭 I’m currently working on [Hack (Processor, Assembler, Translator, Compiler](https://github.com/PoctorDepper/Nand2Tetris)
 - 🌱 I’m currently learning Computer and Electrical Engineering
 
 ## Time tracked since 2024
