@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there!
 
 <!--
 **PoctorDepper/PoctorDepper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😄 Pronouns: they/them
+- 🔭 I’m currently working on Blossom (indie game)
+- 🌱 I’m currently learning Computer and Electrical Engineering
